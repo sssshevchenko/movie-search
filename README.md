@@ -36,3 +36,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Interface
+
+Here is 2 links - 'Home' and 'Favourites'. First link redirecting You to the main page of App and second link redirecting You to the page where You can find films, which You marked as Favourite.
+
+Also, here is a Search Bar which you can use to find some films etc... After you push 'Search' button it will redirect You to the page with films which match Your request. 
+
+If You click on any film, You will be redirected to the page with detailed information of film. Also, here is a button which will add this film to Favourites by clicking it.
